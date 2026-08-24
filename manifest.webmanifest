@@ -1,37 +1,37 @@
 {
-  "id": "/",
+  "id": ".",
   "name": "LULL",
   "short_name": "LULL",
   "lang": "ja",
   "dir": "ltr",
-  "description": "おたよりを書くと、あなたのためだけの一曲が届きます。同じ曲は二度と生成されません。",
-  "start_url": "/",
-  "scope": "/",
+  "description": "おたよりを書くと、あなたのためだけの一曲が届きます。同じ番号のLullは二度と発行されません。",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "./icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "./icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-maskable-192.png",
+      "src": "./icons/icon-maskable-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/icons/icon-maskable-512.png",
+      "src": "./icons/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
